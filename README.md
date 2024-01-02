@@ -22,4 +22,4 @@ Easy Respawn Timer is a plugin that shows at what time the next wave will arrive
 ![Image 3](20240102205357_1.jpg)
 
 ## <code style="color : Green">Download now!</code>
-<a href="#" class="button big">Download</a>
+<a href="#" class="button icon arrowdown">Download</a>
