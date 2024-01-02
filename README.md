@@ -17,6 +17,6 @@ Easy Respawn Timer is a plugin that shows at what time the next wave will arrive
 
 
 ## <code style="color : Blue">This is how it looks in the game</code>
-![de:hub.de-Projekt](20240102203513_1.jpg)
-![de:hub.de-Projekt](20240102203542_1.jpg)
-![de:hub.de-Projekt](20240102205357_1.jpg)
+![Image 1](20240102203513_1.jpg)
+![Image 2](20240102203542_1.jpg)
+![Image 3](20240102205357_1.jpg)
