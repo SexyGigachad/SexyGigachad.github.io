@@ -14,3 +14,6 @@ Easy Respawn Timer is a plugin that shows at what time the next wave will arrive
 > Change the colour of the timer to whatever you want(Timer is divided into <code style="color : Blue">MTF</code>/<code style="color : Green">CI</code> fractions)
 > 
 > Change the emoji that will be displayed as a bar
+
+
+## This is how it looks in the game
