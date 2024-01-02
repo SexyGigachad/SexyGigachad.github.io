@@ -17,9 +17,9 @@ Easy Respawn Timer is a plugin that shows at what time the next wave will arrive
 
 
 ## <code style="color : Blue">This is how it looks in the game</code>
-![Image 1](20240102203513_1.jpg)
-![Image 2](20240102203542_1.jpg)
-![Image 3](20240102205357_1.jpg)
+![Image 1](Images/20240102203513_1.jpg)
+![Image 2](Images/20240102203542_1.jpg)
+![Image 3](Images/20240102205357_1.jpg)
 
 ## <code style="color : Green">Download now!</code>
 <a href="EasyRespawnTimer.dll" class="button icon arrowdown">Download</a>
